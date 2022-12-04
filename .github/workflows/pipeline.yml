@@ -18,11 +18,8 @@ jobs:
       with:
         node-version: '14'
     
-    - name: Preparation for build
+    - name: npm install
       run : npm ci
-    
-    - name: Build 
-      run: npm run build
     
     - name: Tests
       run: npm test  
