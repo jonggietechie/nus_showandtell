@@ -1,0 +1,19 @@
+{
+  "name": "nus_showandtell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonggietechie/nus_showandtell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonggietechie/nus_showandtell/issues"
+  },
+  "homepage": "https://github.com/jonggietechie/nus_showandtell#readme"
+}
